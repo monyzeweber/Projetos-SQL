@@ -4,7 +4,7 @@
 
 Projeto proposto no Bootcamp [SQL Database Analyst](https://www.dio.me/bootcamp/formacao-sql-db-specialist) na plataforma [DIO](https://www.dio.me/) com o intuíto de exercitar o desenvolvimento do modelo conceitual e modelo lógico, antes da implementação do Banco de dados.
 
-Narrativa do desafio para o "Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica":
+Narrativa do desafio para o **Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica**
 
   + Clientes levam veículos para conserto ou revisão periódica;
   + Cada veículo é designado a uma equipe de mecânicos que identifica os serviços a serem executados e preenche uma OS com data de entrega;
