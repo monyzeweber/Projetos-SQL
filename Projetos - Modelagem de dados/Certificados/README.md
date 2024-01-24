@@ -6,6 +6,6 @@
 
 ![dio3_page-0001](https://github.com/monyzeweber/SQL-Database-EER/assets/81835859/18545c70-dad5-4d8f-9f46-be0f4f35c711)
 
-## Construindo um Esquema Conceitual para Banco de Dados (Projeto Oficina):
+## Certificado da construção de um Esquema Conceitual para Banco de Dados (Projeto Oficina):
 
 ![dio2_page-0001](https://github.com/monyzeweber/SQL-Database-EER/assets/81835859/a7c6ec56-5d24-4f6a-92a1-794163895bcc)
