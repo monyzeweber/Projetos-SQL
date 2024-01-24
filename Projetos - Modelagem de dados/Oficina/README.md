@@ -22,6 +22,12 @@ Narrativa do desafio para o **Sistema de controle e gerenciamento de execução 
  
  Entidades identificadas: Cliente, Veículo, Equipe, Mecânico, Serviço, Peças, Ordem de Serviço
 
+ # Resolução
+
+ + Como os clientes e mecânicos possuem informações de contato e de endereço, optei por criar uma entidade só para o endereço e um só para contato, ligado à essas entidades principais
+ + A cardinalidade entre Serviço e Ordem de Serviço acabou gerando uma entidade chamada Ordem de Serviço_has_Serviços.
+ + O mesmo ocorreu para a relação entre Peças e Ordem de Serviço, a qual criou uma relação n:m, havendo a necessidade de se criar uma entidade chamada "Relação de peças usadas" para normalização.
+
  # Resultado
 
  ![Modelo conceitual de uma Oficina](https://github.com/monyzeweber/Projetos-SQL/assets/81835859/d9abf42f-c4de-47d2-8273-fb30eecd4ca2)
