@@ -35,11 +35,11 @@ Aluno, Professor, Disciplina, Departamento, Curso
 
 ## Relacionar atributos às entidades definidas até o momento: 
 
-Professor (código do curso, nome do curso, código do departamento)
-Departamento (código do departamento, nome do departamento)
-Curso (código do curso, nome do curso, código do departamento)
-Aluno (RA, nome, sobrenome, endereço, telefone, status, filianção código do curso)
-Disciplina (código da disciplina, nome, descrição, código do departamento, número de alunos, carga horária)
++ Professor (código do curso, nome do curso, código do departamento)
++ Departamento (código do departamento, nome do departamento)
++ Curso (código do curso, nome do curso, código do departamento)
++ Aluno (RA, nome, sobrenome, endereço, telefone, status, filianção código do curso)
++ Disciplina (código da disciplina, nome, descrição, código do departamento, número de alunos, carga horária)
 
 A partir dessas entidades foi definida a necessidade de mais duas: Turma e Histórico para normalização:
 
