@@ -1,1 +1,1 @@
-# Repositório de desafios em SQL
+# Repositório de desafios sobre modelo conceitual e lógicos em SQL
