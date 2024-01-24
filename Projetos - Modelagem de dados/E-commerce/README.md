@@ -39,4 +39,4 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 
 ### Resultado
 
-![Modelo Conceitual E-Commerce](https://github.com/monyzeweber/Projetos-SQL/assets/81835859/49280528-e76f-491a-b75a-0cc2b9914bff)
+
