@@ -1,5 +1,5 @@
 ## Certificado do módulo Fundamentos de Banco de Dados Bootcamp SQL Database Analyst:
 
-![Certificado do primeiro módulo do Bootcamp SQL Database Analyst e certiicado da entrega do projeto.](Fundamento%20de%20Banco%20de%20Dados.jpg)
+![Fundamento de Banco de Dados](https://github.com/monyzeweber/Projetos-SQL/assets/81835859/d664b1d8-87c2-4f51-a9d2-97016ae3a771)
 
 ## Certificado da entrega do projeto:
