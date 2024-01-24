@@ -31,7 +31,7 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 
 + Em relação ao cliente PJ e PF e a forma de pagamento, optei por  criar duas entidades distintas ligada ao cliente, com cardinalidade 1:1 pois um cliente (tanto físico quanto jurídico) possui apenas um CPF ou um CNPJ, assim como um CPF e um CNPJ só podem estar atrelado à um cliente. 
 + Igualmente com o pagamento, onde a entidade foi subdividida, herdando atributos da entidade genérica.
-+ Sobre a "Entrega", como um pedido pode ter várias entregas (no sentido de os itens do pedido chegarem em momentos diferentes) e em uma entrega ser possível ter vários pedidos, a relação de muitos para muitos, gerou a necessidade de uma entidade intermediária, a de Entrega por pedido, contendo as informações tanto do Pedido, quanto da Entrega, possibilitando o relacionamento 1:n.
++ Sobre a "Entrega", como um pedido pode ter várias entregas (no sentido que os itens do pedido podem chegar em momentos diferentes) e em uma entrega é possível conter vários itens, a relação de muitos para muitos gerou a necessidade de uma entidade intermediária, a de Entrega por Pedido, contendo as informações tanto do Pedido, quanto da Entrega, possibilitando o relacionamento 1:n.
 
 ### Ferramentas utilizadas
 
