@@ -10,7 +10,7 @@
 + Algumas disciplinas possuem pré-requisito e um mesmo pré requisito pode ser associado a mais de uma disciplina;
 + As disciplinas podem ser comuns a cursos distintos;
 + O ciclo de vida da disciplina é semestral;
-+ Os professores que ministram as disciplinas estão associados as coordenações de seus respectivos cursos
++ Os professores que ministram as disciplinas estão associados as coordenações de seus respectivos cursos.
 
 ## Resultado
 
