@@ -7,3 +7,5 @@ Desenvolvidos utilizando o MySQL Workbench para construir o design visual da Mod
 ## [Projeto Oficina](https://github.com/monyzeweber/SQL-Database-EER/tree/main/Projetos%20-%20Modelagem%20de%20dados/Oficina)
 
 ## [Projeto Universidade](https://github.com/monyzeweber/SQL-Database-EER/tree/main/Projetos%20-%20Modelagem%20de%20dados/Universidade)
+
+## [Projeto Escola](https://github.com/monyzeweber/SQL-Database-EER/tree/main/Projetos%20-%20Modelagem%20de%20dados/Escola)

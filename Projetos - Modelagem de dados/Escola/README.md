@@ -33,7 +33,7 @@ Esse projeto teve como intuíto fazer passo a passo da modelagem de dados, passa
 
 Aluno, Professor, Disciplina, Departamento, Curso
 
-## Relacionar atributos ás entidades definidas até o momento: 
+## Relacionar atributos às entidades definidas até o momento: 
 
 Professor (código do curso, nome do curso, código do departamento)
 Departamento (código do departamento, nome do departamento)
@@ -59,6 +59,6 @@ DIAGRAMA ENTIDADE RELACIONAMENTO com os atributos, entidades associativas e as c
 
 ![DIAGRAMA ENTIDADE RELACIONAMENTO FINAL](https://github.com/monyzeweber/SQL-Database-EER/assets/81835859/2700c134-d126-4efc-bf30-790ab0420e8a)
 
-### FINAL
+### Conclusão
 
 A partir daqui, seria criado o dicionário de dados e o modelo lógico, para posterior implementação no SGBD, mas meu propósito foi mostrar o processo até o Diagrama Entidade Relacionamento, que servirá como guia para o modelo lógico e etapas posteriores.
