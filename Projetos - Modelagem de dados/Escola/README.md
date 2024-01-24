@@ -1,8 +1,12 @@
 # Projeto Faculdade
 
-## Projeto de Banco de Ddos para Gerenciamento de uma Faculdade
+## Projeto de Banco de Dados para Gerenciamento de uma Faculdade
 
 Esse projeto teve como intuíto fazer passo a passo da modelagem de dados, passando pelo Levantamento de Requisitos, Identificação de Entidades e Relacionamentos, Modelo E-R e Diagrama E-R.
+
+## Ferramentas utilizadas
+
+[BRModelo](https://www.brmodeloweb.com/lang/pt-br/index.html) para criação dos diagramas.
 
 ## Levantamente dos requisitos e entendimento das regras de negócio.
 
@@ -27,7 +31,7 @@ Esse projeto teve como intuíto fazer passo a passo da modelagem de dados, passa
 
 ## Identificando as possíveis entidades:
 
-Aluno, Professor, Disciplina, Departamento, Professor, Curso
+Aluno, Professor, Disciplina, Departamento, Curso
 
 ## Relacionar atributos ás entidades definidas até o momento: 
 
@@ -47,7 +51,7 @@ Obs: as carnalidades ainda não foram definidas nessa momento.
 
 ![DIAGRAMA ENTIDADE RELACIONAMENTO INTERMEDIÁRIA](https://github.com/monyzeweber/SQL-Database-EER/assets/81835859/35e86c80-48e3-453d-9c7d-167359df2851)
 
-Ao aplicar as carnalidades de cada relacionamento, foi notado que alguns relacionamento seriam de muitos para muitos, ocasionando na necessidade de criar uma tabela associativa, permitindo mapear duas ou mais tabelas, fazendo referência às chaves primárias de cada uma. Futuramente as chaves primárias de cada vão se tornar chaves estrangeiras para facilitar o relacionamento entre elas. 
+Ao aplicar as carnalidades de cada relacionamento, foi notado que alguns relacionamento seriam de caráter muitos para muitos, ocasionando na necessidade de criar uma tabela associativa, permitindo mapear duas ou mais tabelas, fazendo referência às chaves primárias de cada uma. Futuramente as chaves primárias de cada vão se tornar chaves estrangeiras para facilitar o relacionamento entre elas. 
 
 Sendo assim, criei: Curso_disciplina (relação entre as entidades Curso e Disciplina), Disiplina_histórico (relação entre as entidades Disciplina e Histórico), professora_disciplina (relação entre as entidades Professor e Disciplina) e alunos_disciplina (relação entre as entidades Alunos e Disciplinas) resultando em:
 
