@@ -45,7 +45,7 @@ Histórico (código do histórico, notas, média, frequência, período de reali
 DIAGRAMA ENTIDADE RELACIONAMENTO (com atributos):
 Obs: as carnalidades ainda não foram definidas nessa momento.
 
-[DIAGRAMA ENTIDADE RELACIONAMENTO](https://github.com/monyzeweber/SQL-Database-EER/assets/81835859/35e86c80-48e3-453d-9c7d-167359df2851)
+![DIAGRAMA ENTIDADE RELACIONAMENTO](https://github.com/monyzeweber/SQL-Database-EER/assets/81835859/35e86c80-48e3-453d-9c7d-167359df2851)
 
 Ao aplicar as carnalidades de cada relacionamento, foi notado que alguns relacionamento seriam de muitos para muitos, ocasionando na necessidade de criar uma tabela associativa, permitindo mapear duas ou mais tabelas, fazendo referência às chaves primárias de cada uma. Futuramente as chaves primárias de cada vão se tornar chaves estrangeiras para facilitar o relacionamento entre elas. 
 
